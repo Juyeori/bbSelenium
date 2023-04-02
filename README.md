@@ -15,4 +15,4 @@ driver.find_element_by_id('password').send_keys('비밀번호')
 ```
 
 2. ctrl + Enter
-3. 추출한 내용을 엑셀 파일로 저장하기 위한 파일명 입력
+3. 추가적인 입력 칸이 뜨면, 그 칸에 추출한 내용을 엑셀 파일로 저장하기 위한 파일명 입력
